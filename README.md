@@ -19,6 +19,7 @@ Update GoDaddy DNS Go to GoDaddy → DNS Management for your new domain: Edit A 
 Enable SSL
 
 🌐 Live Site: digitalportablexraycentre.com
+
 💻 Code: https://github.com/NateRiver-N/Website--Digital-portable-Xray-.git
 
 ---------------------------------------------------------------------------------------------------------------------
@@ -37,6 +38,7 @@ Update GoDaddy DNS Go to GoDaddy → DNS Management for your new domain: Edit A 
 Enable SSL
 
 🌐 Live Site: (Under-Production)
+
 💻 Code: https://github.com/NateRiver-N/Lawsuit.git
 
 ---------------------------------------------------------------------------------------------------------------------
@@ -61,6 +63,7 @@ AI-powered code review
 Leaderboard & match history
 
 🌐 Live: https://honeyourskills-zeta.vercel.app/
+
 💻 Code: Private (currently in development)
 
 ---------------------------------------------------------------------------------------------------------------------
@@ -79,7 +82,9 @@ Git & GitHub
 
 
 📫 Connect
+
 💼 LinkedIn: https://www.linkedin.com/in/ayaan-shaikh-2973a33a1/
+
 💻 GitHub: https://github.com/NateRiver-N
 
 
