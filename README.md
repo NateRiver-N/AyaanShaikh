@@ -18,7 +18,7 @@ Update GoDaddy DNS Go to GoDaddy → DNS Management for your new domain: Edit A 
 
 Enable SSL
 
-🌐 Live Site: digitalportablexraycentre.com
+🌐 Live Site: https://digitalportablexraycentre.com
 
 💻 Code: https://github.com/NateRiver-N/Website--Digital-portable-Xray-.git
 
