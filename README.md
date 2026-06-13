@@ -9,6 +9,8 @@ I'm Ayaan Shafique Shaikh
 🔹 Digital Portable Xray Centre 
 built using HTML, CSS and Js.
 
+It is a Sponsored Project
+
 Deployed using Netlify and purchased domain name from GoDaddy 
 Add Your GoDaddy Domain
 
@@ -27,6 +29,8 @@ Enable SSL
 🔹 Meezan Legal
 built using HTML,Tailwind CSS and Js.
 external utilities : Email.js for user interaction
+
+It is a Sponsored Project
 
 Deployed using Netlify and purchased domain name from GoDaddy 
 Add Your GoDaddy Domain
